@@ -14,32 +14,7 @@
 .MAID:hover{text-shadow:6px 7px 5px rgb(56, 7, 230);border: solid 3px rgb(230, 77, 12);}
 .KROGSTAD:hover{text-shadow:6px 7px 5px rgb(56, 7, 230);border: solid 3px rgb(230, 77, 12);}
 .MRSLINDE:hover{text-shadow:6px 7px 5px rgb(56, 7, 230);border: solid 3px rgb(230, 77, 12);}
-/*
-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 20px;
-  }
-  
- 
-  th {
-    background-color: #333;
-    color: #fff;
-    text-align: left;
-    padding: 10px;
-    border: 1px solid #555;
-  }
-  
-  
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-  
-  td {
-    padding: 8px;
-    border: 1px solid #ddd;
-    text-align: left;
-  }*/
+
 
 table{
     background-color: rgb(111, 0, 255);
@@ -52,15 +27,15 @@ table{
 }
 th {
     background-color: #333;
-    color: #fff;
+    color: #c70f0f;
     text-align: left;
     padding: 10px;
-    border: 1px solid #df1717;
+    border: 1px solid #851158;
   }
 td {border: solid 1px;
     text-align: center;padding: 8px;}
 tr {background-color:rgb(168, 8, 120) ;}
-tr:nth-child(even) {background-color: #3e088a;}
+tr:nth-child(even) {background-color: #0fcb38;}
 ul.navbar-horizontal{
   list-style-type: none;
   margin: 1px;
